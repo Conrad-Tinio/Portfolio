@@ -27,7 +27,7 @@ export default function AboutSection() {
                             {" "}
                             Contact Me
                         </a>
-                        <a href='#contact' className='cosmic-buttons'>
+                        <a href='Conrad-Tinio-CV.pdf' download='Conrad Tinio CV.pdf' className='cosmic-buttons'>
                             {" "}
                             Download My CV
                         </a>

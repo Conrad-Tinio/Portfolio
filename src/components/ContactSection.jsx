@@ -50,7 +50,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <h4 className='font-bold'> Location </h4>
-                  <a href='mailto:specterdev05@gmail.com' className='text-muted-foreground hover:text-primary transition-colors duration-300'>
+                  <a className='text-muted-foreground hover:text-primary transition-colors duration-300'>
                     Vancouver, Canada
                   </a>
                 </div>
